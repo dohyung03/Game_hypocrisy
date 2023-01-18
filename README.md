@@ -15,12 +15,19 @@
 기본 시나리오는 총 5개로 구성됩니다.
 
 ## 한 도시의 이야기
-![KakaoTalk_20230116_002707444_01](https://user-images.githubusercontent.com/122090786/212578957-2feb2301-6381-46a4-81ca-58d98ca239bc.png)
-
+![KakaoTalk_20230116_002707444_02](https://user-images.githubusercontent.com/122090786/213181352-cbf54034-07ff-4b32-b93e-eecdb667b321.png)
 
 
 ## 죽음의 피난길
 ![KakaoTalk_20230116_002707444_04](https://user-images.githubusercontent.com/122090786/212578828-522931b8-d736-4372-b1f8-bbd708efbb67.png)
 
 
-## 
+## 적청내전
+![KakaoTalk_20230116_002707444](https://user-images.githubusercontent.com/122090786/213184505-e5b3b1cc-f49a-4aea-bb40-128350a32518.png)
+
+
+## 우리들의 1984
+![KakaoTalk_20230116_002707444_01](https://user-images.githubusercontent.com/122090786/213181451-1073b506-4a22-4ba0-ab0f-f8847a5d647a.  1984
+
+## 양자택일
+![KakaoTalk_20230116_002707444_03](https://user-images.githubusercontent.com/122090786/213185514-f81e95e4-e891-492c-90fd-b2998a44992b.png)
