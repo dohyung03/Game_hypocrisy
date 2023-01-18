@@ -23,11 +23,12 @@
 
 
 ## 적청내전
-![KakaoTalk_20230116_002707444](https://user-images.githubusercontent.com/122090786/213184505-e5b3b1cc-f49a-4aea-bb40-128350a32518.png)
+![KakaoTalk_20230116_002707444](https://user-images.githubusercontent.com/122090786/213185608-2af3a7ad-f12b-475e-8ec4-01f2c92f1cce.png)
 
 
 ## 우리들의 1984
-![KakaoTalk_20230116_002707444_01](https://user-images.githubusercontent.com/122090786/213181451-1073b506-4a22-4ba0-ab0f-f8847a5d647a.  1984
+![KakaoTalk_20230116_002707444_01](https://user-images.githubusercontent.com/122090786/213185682-deae9b21-d7a7-4d37-a18e-ce72f813e7e9.png)
+
 
 ## 양자택일
 ![KakaoTalk_20230116_002707444_03](https://user-images.githubusercontent.com/122090786/213185514-f81e95e4-e891-492c-90fd-b2998a44992b.png)
